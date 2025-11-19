@@ -1,4 +1,4 @@
-# Hi there, I'm [Malak Khalaf Aloufi] :wave:
+# Hi there, I'm Malak Khalaf Aloufi :wave:
 ## :mortar_board: Education
 - **Degree**: Bachelor's in [Telelcommunication and Electronics Engineering]
 - **University**: [University of Technology and Applied Sciences-AlMussanah]
